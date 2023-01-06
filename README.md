@@ -44,4 +44,9 @@
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
+  ####  <kbd>IoT:</kbd><br>
+  * Conhecimento com dispositivos ESP32. 
+  * Experiência no desenvolvimento de aplicações web com foco em automações de dispositivos ESP32, através de requisição com o back-end.
+  * Construção de dashboard interativos para monitoria de telemetrias.
 </div>
