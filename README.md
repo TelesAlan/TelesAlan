@@ -50,3 +50,5 @@
   * Experiência no desenvolvimento de aplicações web com foco em automações de dispositivos ESP32, através de requisição com o back-end.
   * Construção de dashboard interativos para monitoria de telemetrias.
 </div>
+ 
+ ![Snake animation](https://github.com/TelesAlan/TelesAlan/blob/output/github-contribution-grid-snake.svg)
